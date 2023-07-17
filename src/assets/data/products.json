@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "title": "Cat Butt T-Shirt",
+      "description": "T-shirt with cute cat butt print",
+      "category": "Clothes",
+      "stock": 10,
+      "price": 19.99,
+      "image": "https://cdn.shopify.com/s/files/1/0344/6469/products/45ce96c5b99f2639bbc2826afe62efc1_1024x1024.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cat Ears Baseball Cap",
+      "description": "Black baseball cap with cat ears",
+      "category": "Clothes",
+      "stock": 8,
+      "price": 15.99,
+      "image": "https://ae01.alicdn.com/kf/HTB1NEKzafvsK1Rjy0Fiq6zwtXXah/One-size-Black-Women-Baseball-Cap-Hip-Hop-Adjustable-Performance-Curve-Cap-Cat-Ear-Hat-Fashion.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cat Pajamas",
+      "description": "Adorable cat onesie pajamas",
+      "category": "Clothes",
+      "stock": 6,
+      "price": 29.99,
+      "image": "https://media.luckyonesie.com/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/a/y/ayb035.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cat Toy Variety Pack",
+      "description": "Pack of 10 assorted cat toys",
+      "category": "Toys",
+      "stock": 20,
+      "price": 12.99,
+      "image": "https://ae01.alicdn.com/kf/H97ea79f4058d432c9b6b9d1e05f836d87/Creative-Assorted-Cat-Feather-Toys-Cat-Toys-Set-Funny-Cat-Stick-Bell-Ball-Toy-Interactive-Cat.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Modern Cat Tree",
+      "description": "Multi-level cat tree and scratching post",
+      "category": "Scratching",
+      "stock": 3,
+      "price": 79.99,
+      "image": "https://assets.onbuy.com/i9/product/0fc7285694d64380b93c2c5063e668fe-o90510042/deluxe-multi-level-cat-and-kitten-scratch-activity-centre-tree-with-soft-plush-finish-scratch-post.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cat Snack Variety Pack",
+      "description": "20 pouches of assorted cat treat flavors",
+      "category": "Cat Food",
+      "stock": 30,
+      "price": 12.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Lc%2BBADF-L.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Cat Cafe Sign",
+      "description": "Custom pet cafe chalkboard sign",
+      "stock": 5,
+      "price": 18.99,
+      "image": "https://i.pinimg.com/originals/0f/4b/00/0f4b005a3acd2c3d1710374202551250.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Cat Planter",
+      "description": "Ceramic planter shaped like a curled up cat",
+      "stock": 12,
+      "price": 16.99,
+      "image": "https://i.etsystatic.com/27787330/r/il/043e70/3033592741/il_1588xN.3033592741_sflz.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cat Stud Earrings",
+      "description": "Cute stud earrings shaped like cat heads",
+      "category": "Jewlery",
+      "stock": 20,
+      "price": 9.99,
+      "image": "https://ae01.alicdn.com/kf/HTB16sFhaiYrK1Rjy0Fdq6ACvVXa2/Vintage-Design-Gold-Silver-Black-Realistic-Lovely-Cat-Head-Ear-Stud-Earring-For-Women-Party-Cute.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Cat Mug",
+      "description": "Ceramic mug with cat ears handle",
+      "category": "Household",
+      "stock": 8,
+      "price": 12.99,
+      "image": "https://s1.thcdn.com/productimg/1600/1600/11525982-1824510203146538.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Cat Face Mask",
+      "description": "Cotton face mask with cat whiskers and nose",
+      "category": "Costumes",
+      "stock": 20,
+      "price": 12.99,
+      "image": "https://i.pinimg.com/originals/79/6e/51/796e5180589024e6dc87eff90e1b0c97.png"
+    },
+    {
+      "id": 12,
+      "title": "Cat Lunch Box",
+      "description": "Insulated lunch box with cute cat design",
+      "category": "Lougagge",
+      "stock": 15,
+      "price": 12.99,
+      "image": "https://ae01.alicdn.com/kf/HTB19hxeMFXXXXc.XXXXq6xXFXXX2/Cat-rabbit-Neoprene-Thermal-Insulated-Lunch-Bag-for-Women-Kids-storage-bags-Tote-lunch-Box-Insulation.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Cat Phone Case",
+      "description": "Protective phone case with cat ears",
+      "category": "Electronics",
+      "stock": 20,
+      "price": 15.99,
+      "image": "https://ae01.alicdn.com/kf/HTB1sqCxdN1YBuNjy1zcq6zNcXXag/3D-Cute-Smile-Cat-Ears-Phone-Case-For-iPhone-5-5s-SE-6-6s-Plus-7.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Cat Keychain",
+      "description": "Metal keychain shaped like a sitting cat",
+      "category": "Jewlery",
+      "stock": 30,
+      "price": 4.99,
+      "image": "https://ae01.alicdn.com/kf/HTB18ycMelUSMeJjy1zjq6A0dXXaK/Cute-Metal-Cat-keychains-key-Rings-Animal-Key-Chains-Personalized-Car-Key-Holder-Pendant-Women-Bag.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Cat Socks",
+      "description": "Funny socks with allover cat print",
+      "category": "Clothes",
+      "stock": 20,
+      "price": 9.99,
+      "image": "https://i5.walmartimages.com/asr/e65d1325-0ffd-4b87-a7e5-245e5f015b03.29e25811fcff97124da3cfcc73ee109e.jpeg"
+    },
+    {
+      "id": 16,
+      "title": "Cat Wine Glass",
+      "description": "Stemless wine glass with cat silhouette",
+      "category": "Household",
+      "stock": 18,
+      "price": 12.99,
+      "image": "https://s3.amazonaws.com/cratejoy_vendor_images/d7e901cb253c4984a2a1cc2961a116f2.jpeg"
+    },
+    {
+      "id": 17,
+      "title": "Cat Welcome Mat",
+      "description": "Funny doormat saying Crazy Cat Lady Home",
+      "category": "Household",
+      "stock": 8,
+      "price": 19.99,
+      "image": "https://ae01.alicdn.com/kf/HTB1mfuwX42rK1RkSnhJq6ykdpXaf/Doormat-Entrance-Floor-Mat-A-Crazy-Cat-Lady-Lives-Here-Mat-Indoor-Decorative-Home-and-Office.jpg"
+    }
+]
